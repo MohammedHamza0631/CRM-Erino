@@ -24,7 +24,6 @@ The **Contact Management** system is a feature-rich mini CRM application built t
 1. **Relational Structure**: PostgreSQL's relational database structure is ideal for maintaining consistent, structured data like contact information.
 2. **Scalability**: Supports large datasets, making it suitable for growing CRM applications.
 3. **Reliability**: Strong ACID compliance ensures data integrity during CRUD operations.
-4. **Flexibility**: Supports advanced queries, indexing, and search features, which can be extended for advanced CRM functionalities.
 
 ---
 
